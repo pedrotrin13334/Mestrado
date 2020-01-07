@@ -1,0 +1,3 @@
+como a hub consegue as informação das demanadas de cada usuário?
+
+Como o usuário faz logon na rede?
